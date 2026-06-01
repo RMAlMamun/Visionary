@@ -1,0 +1,5 @@
+{
+  "name": "Visionary AI Studio",
+  "description": "A comprehensive AI generation studio featuring Text-to-Image, Image-to-Image editing, and Text-to-Video creation using Google's latest Gemini and Veo models.",
+  "requestFramePermissions": []
+}
